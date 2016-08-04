@@ -1,0 +1,11 @@
+# TSA Configuration File
+# Variable = Value, the seperator is " = " (space,equal_sign,space)
+
+# Database Connection Information
+# Password is Encrypted
+#orasource = oratest
+orasource = tsademo
+#ohost = jriacora.iacc.dis.anl.gov
+ohost = 146.137.165.12
+userid = TSA
+passwd = If1/oOJHshH5X52+5pH/NA==

@@ -1,0 +1,13 @@
+C:\TSA\TSAReports\EVAAT\bin\Debug\Airport_Asset.exe.config
+C:\TSA\TSAReports\EVAAT\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\TSA\TSAReports\EVAAT\obj\x86\Debug\EVAAT.csproj.ResolveComReference.cache
+C:\TSA\TSAReports\EVAAT\obj\x86\Debug\Airport_Asset.exe
+C:\TSA\TSAReports\EVAAT\obj\x86\Debug\Airport_Asset.pdb
+C:\TSA\TSAReports\EVAAT\bin\Debug\Airport_Asset.exe
+C:\TSA\TSAReports\EVAAT\bin\Debug\Airport_Asset.pdb
+C:\TSA\TSAReports\EVAAT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TSA\TSA_EXEC\EVAAT\bin\Debug\Airport_Asset.exe.config
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\EVAAT.csproj.ResolveComReference.cache
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\Airport_Asset.exe
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\Airport_Asset.pdb

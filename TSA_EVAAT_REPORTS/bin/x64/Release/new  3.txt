@@ -1,0 +1,9 @@
+http://vm2-lom.iac.anl.gov/sia/
+
+http://pt.vm2-lom.iac.anl.gov/sia/
+
+iisdevadhoc.iacc.dis.anl.gov
+https://iacd.iac.anl.gov/IPGateway_site/,DanaInfo=146.137.90.123,Port=8080+asset-analysis-tool_admin.html
+
+http://iacs8.iacc.dis.anl.gov:7777/pls/apex/f?p=500
+https://iacd.iac.anl.gov/IPGateway_site/,DanaInfo=146.137.90.123,Port=8080+dashboard_admin.html

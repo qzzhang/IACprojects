@@ -1,0 +1,13 @@
+C:\TSA\TSA_EXEC\EVAAT\bin\Debug\TSA_EVAAT_Exec_Summary.exe.config
+C:\TSA\TSA_EXEC\EVAAT\bin\Debug\TSA_EVAAT_Exec_Summary.exe
+C:\TSA\TSA_EXEC\EVAAT\bin\Debug\TSA_EVAAT_Exec_Summary.pdb
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\EVAAT_Exec.csproj.ResolveComReference.cache
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\TSA_EVAAT_Exec_Summary.exe
+C:\TSA\TSA_EXEC\EVAAT\obj\x86\Debug\TSA_EVAAT_Exec_Summary.pdb
+C:\TSA\TSA_EVAAT_FULL\EVAAT\bin\Debug\TSA_EVAAT_Exec_Summary.exe.config
+C:\TSA\TSA_EVAAT_FULL\EVAAT\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\TSA\TSA_EVAAT_FULL\EVAAT\obj\x86\Debug\EVAAT_Exec.csproj.ResolveComReference.cache
+C:\TSA\TSA_EVAAT_FULL\EVAAT\obj\x86\Debug\TSA_EVAAT_Exec_Summary.exe
+C:\TSA\TSA_EVAAT_FULL\EVAAT\obj\x86\Debug\TSA_EVAAT_Exec_Summary.pdb
